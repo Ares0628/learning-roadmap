@@ -1,7 +1,3 @@
-#To learn list
-* [x] task
-* [x] task
-* [ ] task
 
 # Python
 ## Environment
